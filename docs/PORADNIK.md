@@ -37,7 +37,7 @@ gry, bajt w bajt: kompilator, jego ustawienia i kolejność linkowania są stał
 kod nie zawiera ścieżek ani dat. Log budowy podaje skrót biblioteki; dla rev 1.30 wynosi
 
 ```
-libwwfgame.so SHA-256: 1cfb5356cf34c49248f7f6c2b7c172322f60a3c47fddaa37db7f6d8af0d1e96a
+libwwfgame.so SHA-256: c582f90ef0e07ac064f6d95af5c1d04690b15b036d429220ed4fa21f93dc4cf1
 ```
 
 i jest równy kompilacji autora. Każdy kompilator podpisuje własnym kluczem, tworzonym przy
