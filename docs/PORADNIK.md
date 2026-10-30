@@ -10,7 +10,7 @@ To repozytorium zawiera kompilator: jeden program na Windows, który buduje plik
 własnego zestawu ROM z MAME. Nie ma w nim żadnych danych gry i niczego nie pobiera z internetu.
 Wszystko, co powstaje z zestawu ROM, zostaje na Twoim komputerze.
 
-![Kompilator WWF WrestleMania](builder.png)
+![Kompilator WWF WrestleMania](builder_pl.png)
 
 ### Jak zbudować APK
 
