@@ -1,0 +1,46 @@
+WWF WrestleMania Builder: terms of use
+
+1. Personal use. The builder is shared free of charge so that people who own the arcade game's
+   ROM set can play it on their own phone. Use it, and the APK it makes, for your own private,
+   noncommercial use only. Do not sell it, and do not share the APK you make: it holds data
+   from your ROM set.
+
+2. No rights claimed. The author claims no rights over the graphics in the builder (the
+   launcher icon and the OPTIONS screens' pictures, made with AI tools) and gives no licence
+   that would need such rights. The builder holds no data from the game: the ROM set is yours,
+   and everything made from it stays on your computer.
+
+3. No warranty. The builder is provided "as is", without warranty of any kind. The author is
+   not liable for any damage or loss arising from its use.
+
+4. Other people's parts. The builder carries parts made by others under their own licences
+   (THIRD_PARTY.txt, the licences folder). Those terms apply to those parts. Among them, the
+   port's touch controls and user interface come from a project under the PolyForm
+   Noncommercial License 1.0.0, which permits noncommercial use only.
+
+5. Trademarks. WWF, WrestleMania and the wrestlers' names belong to their owners. Midway made
+   the arcade game. This project is not affiliated with or endorsed by any of them.
+
+
+Kompilator WWF WrestleMania: warunki użytkowania
+
+1. Użytek własny. Kompilator jest udostępniony bezpłatnie, żeby posiadacze zestawu ROM
+   automatu mogli zagrać na własnym telefonie. Używaj go, i zbudowanego nim pliku APK, tylko do
+   prywatnego, niekomercyjnego użytku. Nie sprzedawaj go i nie udostępniaj zbudowanego APK:
+   zawiera dane z Twojego zestawu ROM.
+
+2. Bez roszczeń. Autor nie rości sobie żadnych praw do grafik w kompilatorze (ikona
+   aplikacji i obrazy ekranów OPTIONS, wykonane narzędziami AI) i nie udziela licencji, która
+   wymagałaby takich praw. Kompilator nie zawiera danych gry: zestaw ROM jest Twój, a wszystko,
+   co z niego powstaje, zostaje na Twoim komputerze.
+
+3. Bez gwarancji. Kompilator jest udostępniony w stanie, w jakim jest, bez jakiejkolwiek
+   gwarancji. Autor nie odpowiada za szkody ani straty wynikłe z jego użycia.
+
+4. Części innych autorów. Kompilator zawiera części innych autorów na ich własnych licencjach
+   (THIRD_PARTY.txt, folder licences). Do tych części stosuje się ich warunki. Wśród nich
+   sterowanie dotykowe i interfejs portu pochodzą z projektu na licencji PolyForm
+   Noncommercial 1.0.0, która dopuszcza wyłącznie użytek niekomercyjny.
+
+5. Znaki towarowe. WWF, WrestleMania i nazwy zawodników należą do ich właścicieli. Grę na
+   automaty wydało Midway. Projekt nie jest z nimi związany ani przez nich wspierany.

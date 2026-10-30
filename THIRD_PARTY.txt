@@ -1,0 +1,16 @@
+Parts made by others, inside the builder and the APK it makes
+
+- MAME's TMS34010 and ADSP-2100 CPU cores (wwfnative/src, and compiled into the game library):
+  BSD-3-Clause, copyright Alex Pasadyn, Zsolt Vasvari, Aaron Giles and the MAME team. The licence
+  text is at the top of each of those source files.
+- The Android NDK r26b toolchain (toolchain/): LLVM clang, lld, llvm-ar and llvm-strip under the
+  Apache License 2.0 with LLVM Exceptions; the sysroot's headers and libraries (bionic, libc++,
+  libunwind, compiler-rt) under their licences: licences/NDK-NOTICE.txt and
+  licences/NDK-toolchain-NOTICE.txt. libwinpthread (MinGW-w64, MIT/ZPL) and libxml2 (MIT) come
+  with the toolchain.
+- CPython 3.12 with Tcl/Tk (runtime/python/): the PSF licence, runtime/python/LICENSE.txt.
+- The Open Sans font, embedded in the game library: SIL Open Font License 1.1,
+  licences/OpenSans-OFL.txt.
+- The port's shell (touch controls, menus, presentation), from t3native and the Tekken3Remake
+  project: PolyForm Noncommercial License 1.0.0, licences/PolyForm-Noncommercial-1.0.0.md.
+- zlib (in the launcher): the zlib licence.
