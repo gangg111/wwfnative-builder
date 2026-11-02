@@ -36,7 +36,7 @@ the compiler, its flags and the order of the link are fixed, and the recompiled 
 paths or dates. The build's log prints the library's hash; for rev 1.30 it is
 
 ```
-libwwfgame.so SHA-256: c582f90ef0e07ac064f6d95af5c1d04690b15b036d429220ed4fa21f93dc4cf1
+libwwfgame.so SHA-256: b66c7d50caa8514b4ce1906830f8dc9fd7bd316f21d21aafb188b69815aff4b3
 ```
 
 which is the developer's own build. Each builder signs with its own key, made on its first run,
